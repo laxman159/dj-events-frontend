@@ -13,7 +13,7 @@
   <br>
 </h2>
 
-### ✨ [Live](https://djevents159.varcel.app)
+### ✨ [Live](https://djevents159.vercel.app)
 
 ## Learned from Udemy, course by Brad Travesy
 
