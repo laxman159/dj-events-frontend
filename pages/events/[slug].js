@@ -4,7 +4,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { API_URL } from "@/config/index";
 import styles from "@/styles/Event.module.css";
 import Link from "next/link";
-import Image from "next/Image";
+import Image from "next/image";
 import { FaPencilAlt, FaTimes } from "react-icons/fa";
 import { useRouter } from "next/router";
 import EventMap from "@/components/EventMap";
